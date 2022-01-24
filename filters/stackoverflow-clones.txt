@@ -1,0 +1,30 @@
+! Title: levymetal's filters – Stack Overflow Clones
+! Description: Removes Stack Overflow/GitHub clones/scrapers from Google and
+!              DuckDuckGo search results
+! Expires: 7 days
+! Homepage: https://github.com/levymetal/filter-lists
+! License: https://github.com/levymetal/filter-lists/blob/main/LICENCE
+
+google.*##div#search a[href*="codegrepper.com"]:nth-ancestor(2)
+google.*##div#search a[href*="pretagteam.com"]:nth-ancestor(2)
+google.*##div#search a[href*="giters.com"]:nth-ancestor(2)
+google.*##div#search a[href*="githubmemory."]:nth-ancestor(2)
+google.*##div#search a[href*="bountysource.com"]:nth-ancestor(2)
+google.*##div#search a[href*="bestofreactjs.com"]:nth-ancestor(2)
+google.*##div#search a[href*="issueexplorer.com"]:nth-ancestor(2)
+google.*##div#search a[href*="coderedirect.com"]:nth-ancestor(2)
+google.*##div#search a[href*="fantashit.com"]:nth-ancestor(2)
+google.*##div#search a[href*="techinplanet.com"]:nth-ancestor(2)
+google.*##div#search a[href*="py4u.net"]:nth-ancestor(2)
+
+duckduckgo.*##div.serp__results a[href*="codegrepper.com"]:nth-ancestor(2)
+duckduckgo.*##div.serp__results a[href*="pretagteam.com"]:nth-ancestor(2)
+duckduckgo.*##div.serp__results a[href*="giters.com"]:nth-ancestor(2)
+duckduckgo.*##div.serp__results a[href*="githubmemory."]:nth-ancestor(2)
+duckduckgo.*##div.serp__results a[href*="bountysource.com"]:nth-ancestor(2)
+duckduckgo.*##div.serp__results a[href*="bestofreactjs.com"]:nth-ancestor(2)
+duckduckgo.*##div.serp__results a[href*="issueexplorer.com"]:nth-ancestor(2)
+duckduckgo.*##div.serp__results a[href*="coderedirect.com"]:nth-ancestor(2)
+duckduckgo.*##div.serp__results a[href*="fantashit.com"]:nth-ancestor(2)
+duckduckgo.*##div.serp__results a[href*="techinplanet.com"]:nth-ancestor(2)
+duckduckgo.*##div.serp__results a[href*="py4u.net"]:nth-ancestor(2)
