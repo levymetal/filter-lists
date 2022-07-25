@@ -21,6 +21,7 @@ google.*##div#search a[href*="javascript.tutorialink.com"]:nth-ancestor(2)
 google.*##div#search a[href*="codingwithfun.com"]:nth-ancestor(2)
 google.*##div#search a[href*="lifesaver.codes"]:nth-ancestor(2)
 google.*##div#search a[href*="localcoder.org"]:nth-ancestor(2)
+google.*##div#search a[href*="anycodings.com"]:nth-ancestor(2)
 
 duckduckgo.*##div.serp__results a[href*="codegrepper.com"]:nth-ancestor(2)
 duckduckgo.*##div.serp__results a[href*="pretagteam.com"]:nth-ancestor(2)
@@ -38,3 +39,4 @@ duckduckgo.*##div.serp__results a[href*="javascript.tutorialink.com"]:nth-ancest
 duckduckgo.*##div.serp__results a[href*="codingwithfun.com"]:nth-ancestor(2)
 duckduckgo.*##div.serp__results a[href*="lifesaver.codes"]:nth-ancestor(2)
 duckduckgo.*##div.serp__results a[href*="localcoder.org"]:nth-ancestor(2)
+duckduckgo.*##div.serp__results a[href*="anycodings.com"]:nth-ancestor(2)
