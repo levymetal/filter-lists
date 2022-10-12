@@ -6,6 +6,7 @@
 ! License: https://github.com/levymetal/filter-lists/blob/main/LICENCE
 
 google.*##div#search a[href*="codegrepper.com"]:nth-ancestor(2)
+google.*##div#search a[href*="codegrepr.com"]:nth-ancestor(2)
 google.*##div#search a[href*="pretagteam.com"]:nth-ancestor(2)
 google.*##div#search a[href*="giters.com"]:nth-ancestor(2)
 google.*##div#search a[href*="githubmemory."]:nth-ancestor(2)
@@ -28,6 +29,7 @@ google.*##div#search a[href*="querythreads.com"]:nth-ancestor(2)
 google.*##div#search a[href*="issuecloser.com"]:nth-ancestor(2)
 
 duckduckgo.*##div.serp__results a[href*="codegrepper.com"]:nth-ancestor(2)
+duckduckgo.*##div.serp__results a[href*="codegrepr.com"]:nth-ancestor(2)
 duckduckgo.*##div.serp__results a[href*="pretagteam.com"]:nth-ancestor(2)
 duckduckgo.*##div.serp__results a[href*="giters.com"]:nth-ancestor(2)
 duckduckgo.*##div.serp__results a[href*="githubmemory."]:nth-ancestor(2)
