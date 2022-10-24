@@ -6,6 +6,7 @@
 ! License: https://github.com/levymetal/filter-lists/blob/main/LICENCE
 
 google.*##div#search a[href*="codegrepper.com"]:nth-ancestor(2)
+google.*##div#search a[href*="codegrepr.com"]:nth-ancestor(2)
 google.*##div#search a[href*="pretagteam.com"]:nth-ancestor(2)
 google.*##div#search a[href*="giters.com"]:nth-ancestor(2)
 google.*##div#search a[href*="githubmemory."]:nth-ancestor(2)
@@ -29,8 +30,10 @@ google.*##div#search a[href*="issuecloser.com"]:nth-ancestor(2)
 google.*##div#search a[href*="errorsfixing.com"]:nth-ancestor(2)
 google.*##div#search a[href*="xspdf.com"]:nth-ancestor(2)
 google.*##div#search a[href*="exchangetuts.com"]:nth-ancestor(2)
+google.*##div#search a[href*="appsloveworld.com"]:nth-ancestor(2)
 
 duckduckgo.*##div.serp__results a[href*="codegrepper.com"]:nth-ancestor(2)
+duckduckgo.*##div.serp__results a[href*="codegrepr.com"]:nth-ancestor(2)
 duckduckgo.*##div.serp__results a[href*="pretagteam.com"]:nth-ancestor(2)
 duckduckgo.*##div.serp__results a[href*="giters.com"]:nth-ancestor(2)
 duckduckgo.*##div.serp__results a[href*="githubmemory."]:nth-ancestor(2)
@@ -54,3 +57,4 @@ duckduckgo.*##div.serp__results a[href*="issuecloser.com"]:nth-ancestor(2)
 duckduckgo.*##div.serp__results a[href*="errorsfixing.com"]:nth-ancestor(2)
 duckduckgo.*##div.serp__results a[href*="xspdf.com"]:nth-ancestor(2)
 duckduckgo.*##div.serp__results a[href*="exchangetuts.com"]:nth-ancestor(2)
+duckduckgo.*##div.serp__results a[href*="appsloveworld.com"]:nth-ancestor(2)
